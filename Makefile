@@ -1,4 +1,4 @@
-# makfie configuration
+#akfie configuration
 #General Project Settings 
 NAME		= example#		# Project name
 CPU             = msp430f5510#		# msp430 part number, used by the compiler. 
